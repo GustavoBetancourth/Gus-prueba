@@ -1,0 +1,23 @@
+(Comandos de inicio)
+
+git config --global user.email gus2829n@hotmail.com
+
+git config --global user.name "gustavo betancourth"
+
+
+Git init: iniciar nuevo repositorio.
+Git clone: clonar un repositorio en la carpeta inicial. 
+Git commit: guarda los cambios para una nueva versión.
+Git log: permite ver la historia de los cambios. El gistorial de commit.
+Git commit –m “mensaje”:
+Git diff: diferencia entre dos commits
+Git checkout: para guardar cambios en una versión anterior
+
+Git branch: nombre_de_la_rama
+
+Git merge rama: une dos ramas. 
+
+
+
+
+ Skype al número +18004993237 opción 2, en horario de atención de Lunes a Viernes de 8am a 8pm.
